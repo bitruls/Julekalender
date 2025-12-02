@@ -1,0 +1,12 @@
+﻿bin/
+obj/
+*.user
+*.rsuser
+*.suo
+*.cache
+*.log
+.vs/
+
+# AoC inputs
+input.txt
+input*.txt
