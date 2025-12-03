@@ -4,6 +4,6 @@ class Program
 { 
     static void Main(string[] args)
     {
-        Des1.Run();
+        Des1p2.Run();
     }
 }

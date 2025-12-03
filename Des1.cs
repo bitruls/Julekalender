@@ -5,7 +5,7 @@ public static class Des1
 {
     public static void Run()
     {
-        string[] lines = File.ReadAllLines("input.txt");
+        string[] lines = File.ReadAllLines("input1.txt");
 
         int position = 50;
         int zeroCount = 0;
