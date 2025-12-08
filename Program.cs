@@ -1,9 +1,10 @@
 ﻿using System;
+using Days;
 
 class Program
 { 
     static void Main(string[] args)
     {
-        Des1p2.Run();
+        Day2.Run();
     }
 }
